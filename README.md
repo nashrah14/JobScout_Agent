@@ -1,4 +1,4 @@
-# 🚀 JobScout Agent - JobScout Agent
+# 🚀 JobScout Agent - Hybrid Fake Job Detection
 
 JobScout Agent is an AI-powered web application that detects fraudulent job postings using a **Hybrid Machine Learning + Agentic AI** approach.
 
